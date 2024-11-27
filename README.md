@@ -10,4 +10,4 @@ Exercicio proposto pela plataforma DevMedia, para a conclusão das 5º Seção d
 ### Resultado do Site
 Após conclusão e Deploy do Site, esse será o resultado.
 
-!(assets/img/layout.png "San Juan Mountains")
+![Layout!](/assets/img/layout.jpg "Layout")
