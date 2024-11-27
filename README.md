@@ -10,4 +10,4 @@ Exercicio proposto pela plataforma DevMedia, para a conclusão das 5º Seção d
 ### Resultado do Site
 Após conclusão e Deploy do Site, esse será o resultado.
 
-![Layout!](/assets/img/layout/layout.png "Layout")
+![Layout!](assets/layout/layout.png "Layout")
