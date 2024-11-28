@@ -18,3 +18,18 @@
     --span-color:black;
     --section-border-color:#d8d8d8;
 }
+
+/*STANDARD-BUTTON*/
+
+
+.btn-std{
+    transition: all 0.2s ease-in-out;
+    margin-top:20px ;
+    display: block;
+    text-decoration: none;
+    border: 1px solid var(--btn-color);
+    padding: 2px 35px;
+    border-radius: 35px;
+    color:white;
+    background-color: var(--btn-color);
+}
