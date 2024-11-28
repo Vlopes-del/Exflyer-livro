@@ -8,7 +8,7 @@ Exercicio proposto pela plataforma DevMedia, para a conclusão das 5º Seção d
 - Aplicar os espaços entre os elementos respeitando o layout fornecido.
 
 ### Resultado do Site
-Após conclusão e Deploy do Site, esse será o resultado.
+Após conclusão e Deploy do Site, esse será o resultado.<br>
 Acesse a Página: [Livro - A Era Digital](https://vlopes-del.github.io/Exflyer-livro/)
 
 ![Layout!](assets/img/layout/layout.png "Layout")
